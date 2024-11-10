@@ -1,12 +1,17 @@
-# E3-Atelier-reconnaissance-faciale
-Projet IA - Reconnaissance Faciale
-Ce dépôt contient un projet scolaire basé sur le cours de Laurent Najman, réalisé dans le cadre de l'unité IA et Deep Learning de l'ESIEE en 2024. Ce projet vise à implémenter un modèle de reconnaissance faciale à l'aide de réseaux de neurones.
+# Projet COLORIA - Colorisation d'Images
 
-Description
-Le rapport du projet est inclus et présente les différentes étapes de notre approche, de la détection de visage à la reconnaissance faciale en passant par l'estimation de pose et l'encodage.
+Ce dépôt GitHub contient le travail collaboratif de deux mois réalisé par notre équipe dans le cadre de notre cursus à l'ESIEE. Ce projet vise à explorer et analyser diverses techniques de colorisation d'images, en utilisant des modèles avancés de deep learning pour restaurer et coloriser des images en nuances de gris.
 
-Note : Les données de l'entraînement ne sont pas incluses, car elles contiennent des photos personnelles.
+## Description du Projet
 
-Auteurs
-Owen Braux et
-Elliot Cambier
+Nous avons étudié quatre modèles différents de colorisation, chacun utilisant une architecture unique, telle que U-NET et ResNet, ou des approches basées sur des GANs. L'objectif est d'évaluer et de comparer leurs performances en termes de qualité de colorisation et de réalisme.
+
+Le rapport de projet, détaillant nos méthodologies, nos résultats et nos conclusions, est inclus.
+
+## Membres de l'équipe
+
+- Elliot Cambier
+- Kérien Hartweg
+- Hugo Kothe
+- Olivier Wang
+- Caull Yang
